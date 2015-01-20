@@ -1,4 +1,4 @@
-var jQuery = require('jQuery');
+var jQuery = require('jquery');
 
 /*! http://mths.be/placeholder v2.0.7 by @mathias */
 ;(function(window, document, $) {
