@@ -6,6 +6,9 @@
   "directories": {
     "test": "tests"
   },
+  "dependencies": {
+    "jQuery": "1.7.2"
+  }
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
